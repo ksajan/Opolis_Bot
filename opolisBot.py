@@ -1,4 +1,3 @@
-from dis import disco
 import os
 import discord
 from pathlib import Path
